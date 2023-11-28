@@ -27,6 +27,3 @@ if args.filename:
     with open(args.filename, 'r') as fp:
         file_contents = fp.readlines()
         print(file_contents)
-        
-else:
-    print("No filename provided - please try again.")
