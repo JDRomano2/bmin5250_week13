@@ -1,0 +1,1 @@
+This is the text stored in the second file, which is named "myfile2.txt".
